@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144386" started-at="2020-07-18T14:27:37Z" finished-at="2020-07-18T14:30:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144386" started-at="2020-07-18T14:27:37Z" finished-at="2020-07-18T14:30:01Z">
+      <class name="com.testNg.BrowserTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.testNg.BrowserTest@56ef9176]" name="launchBrowser" is-config="true" duration-ms="24677" started-at="2020-07-18T14:27:37Z" finished-at="2020-07-18T14:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="registerationForm()[pri:1, instance:com.testNg.BrowserTest@56ef9176]" name="registerationForm" duration-ms="49702" started-at="2020-07-18T14:28:02Z" finished-at="2020-07-18T14:28:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationForm -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.testNg.BrowserTest@56ef9176]" name="login" duration-ms="9559" started-at="2020-07-18T14:28:51Z" finished-at="2020-07-18T14:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchBar()[pri:3, instance:com.testNg.BrowserTest@56ef9176]" name="searchBar" duration-ms="8143" started-at="2020-07-18T14:29:01Z" finished-at="2020-07-18T14:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBar -->
+        <test-method status="PASS" signature="addToCart()[pri:4, instance:com.testNg.BrowserTest@56ef9176]" name="addToCart" duration-ms="48135" started-at="2020-07-18T14:29:09Z" finished-at="2020-07-18T14:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testNg.BrowserTest@56ef9176]" name="closeBrowser" is-config="true" duration-ms="4097" started-at="2020-07-18T14:29:57Z" finished-at="2020-07-18T14:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testNg.BrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
